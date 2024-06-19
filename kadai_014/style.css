@@ -1,0 +1,36 @@
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+  font-size: 20px;
+}
+h1 {
+.google-fonts {
+  // <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 700
+
+.josefin-sans-<uniquifier> {
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+}
+}
+text-shadow: 1px 1px 2px orange;
+border-bottom: solid 3px rgb(115,115,114)
+}
+.h1 {
+  font-size: 40px;
+  letter-spacing: 1.2rem;
+}
+.highlight {
+  color: skyblue;
+}
+.decoration {
+  color: rgb(255,192,203);
+}
+#basic {
+  font-weight: bold;
+}
+#bold-text {
+  font-weight: bold;
+}
